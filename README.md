@@ -8,7 +8,7 @@ Author: Jim Bolanos
 
 | Folder | Language | Hardware |
 |--------|----------|----------|
-| `pybricks/` | Pybricks (MicroPython) | Technic Hub, Robot Inventor |
+| `pybricks/` | Pybricks (MicroPython) | EV3, Technic Hub, Robot Inventor |
 | `nqc/` | NQC | RCX, Scout |
 | `nxc/` | NXC | NXT |
 
@@ -16,7 +16,7 @@ Author: Jim Bolanos
 
 | Robot | Language | Description |
 |-------|----------|-------------|
-| [robot-name](nxc/robot-name) | NXC | Short description |
+| [Robot Arm H25 v2](pybricks/robot-arm-h25) | Pybricks | Arm that picks up an object from the left or right and drops it in the middle |
 
 ## License
 
