@@ -1,5 +1,7 @@
 # Robot Arm H25 v2
 
+![Robot Arm H25](photos/robot.jpg)
+
 A robot arm that picks up an object from the left or right side and drops it in the middle.
 
 Model: [MOC-81936 by Benoit72](https://rebrickable.com/mocs/MOC-81936/Benoit72/robot-arm/#details) (31313 version)
@@ -28,6 +30,7 @@ To stop the program, press UP + DOWN together.
 ## Code
 
 - `main.py`: main program (settings at the top to tune speeds and positions)
+- `main_es.py`: same program with the comments in Spanish
 
 ## Build instructions
 
