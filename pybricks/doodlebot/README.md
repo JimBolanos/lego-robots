@@ -45,7 +45,8 @@ Change `MODE` at the top of `main.py`:
 
 - `main.py`: main program (inverse kinematics for the arms, pen control, drawing routines)
 - `Doodle_Robot.ev3`: original EV3-G program, for reference
+- `Doodle_Bot.pdf`: build instructions
 
 ## Build instructions
 
-See `Doodle_Bot.pdf` in the original project (not included in this repo).
+See [`Doodle_Bot.pdf`](Doodle_Bot.pdf).
